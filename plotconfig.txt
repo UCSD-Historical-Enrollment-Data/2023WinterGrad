@@ -1,0 +1,11 @@
+{
+    "markers": [],
+    "regions": [],
+    "settings": {
+        "termName": "Winter 2023",
+        "showTotal": True,
+        "useEnrolledTtl": True,
+        "useMarkers": True,
+    },
+    "version": 2
+}
