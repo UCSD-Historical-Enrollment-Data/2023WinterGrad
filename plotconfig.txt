@@ -1,5 +1,49 @@
 {
-    "markers": [],
+    "markers": [
+        {
+            'd': '2023-01-04',
+            't': 0,
+            'l': 'solid',
+            'c': '#db129b',
+            'n': 'Winter Quarter Begins',
+            'i': 13
+        },
+        {
+            'd': '2023-01-09',
+            't': 0,
+            'l': 'solid',
+            'c': '#8db80f',
+            'n': 'Instruction Begins',
+            'i': 14
+        },
+        {
+            # deadline to add courses is 1/20, but use 1/21 12am
+            'd': '2023-01-21',
+            't': 0,
+            'l': 'solid',
+            'c': '#c94418',
+            'n': 'Deadline to Enroll/Add',
+            'i': 15
+        },
+        {
+            # drop w/o W is 2/3, but use 2/4 12am
+            'd': '2023-02-04',
+            't': 0,
+            'l': 'solid',
+            'c': '#352987',
+            'n': 'Drop w/o W',
+            'i': 16
+        },
+        {
+            # drop w W is 3/10, but use 3/11 12am
+            'd': '2023-03-11',
+            't': 0,
+            'l': 'solid',
+            'c': '#303f59',
+            'n': 'Drop w/ W',
+            'i': 17
+        }
+    ],
     "regions": [],
     "settings": {
         "termName": "Winter 2023",
